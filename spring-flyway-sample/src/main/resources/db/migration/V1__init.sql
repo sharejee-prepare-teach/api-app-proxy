@@ -1,4 +1,0 @@
-CREATE TABLE products (
-  id int AUTO_INCREMENT NOT NULL PRIMARY KEY,
-  name VARCHAR(100)
-)
